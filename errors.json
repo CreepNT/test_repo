@@ -18,6 +18,10 @@
             },
             "0x0002" : {
                 "name":"ERROR_0x0002"
+            },
+            "0x0003" : {
+                "name":"ERROR_0X003",
+                "description":"Error 0x003"
             }
         }
     }
