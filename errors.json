@@ -22,6 +22,10 @@
             "0x0003" : {
                 "name":"ERROR_0X003",
                 "description":"Error 0x003"
+            },
+            "0x0004" : {
+                "name":"SCE_KERNEL_ERROR_UNSUP",
+                "description":"Unsupported."
             }
         }
     }
