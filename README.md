@@ -6,7 +6,7 @@ Repository for testing things.
 [testfile](folder/testfile.txt)
 
 ## paragraph1
-[goto p2](README.md#paragraph2)
+[goto p2](#paragraph2)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Arcu odio ut sem nulla pharetra diam sit amet nisl. Eu feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Bibendum est ultricies integer quis auctor elit sed vulputate. Blandit aliquam etiam erat velit scelerisque in dictum. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Sed arcu non odio euismod lacinia at quis risus sed. Non blandit massa enim nec dui nunc mattis enim. Nibh ipsum consequat nisl vel pretium lectus quam id. Consectetur adipiscing elit ut aliquam purus. Diam maecenas sed enim ut. Varius sit amet mattis vulputate enim nulla aliquet. Sed blandit libero volutpat sed cras ornare arcu. Non consectetur a erat nam at. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Est ullamcorper eget nulla facilisi. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum posuere.
 
